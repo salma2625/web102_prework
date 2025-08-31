@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://video-link-generator.replit.app/v/gwsmo0ft9jnmafv4zzps3e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' /Users/salma/web102_prework/assets/readMe prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
