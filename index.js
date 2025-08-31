@@ -193,12 +193,13 @@ const topGameElement = document.createElement("p");
 topGameElement.textContent = firstGame.name;
 firstGameContainer.appendChild(topGameElement);
 
+// do the same for the runner up item
 const runnerUpElement = document.createElement("p");
 runnerUpElement.textContent = secondGame.name;
 secondGameContainer.appendChild(runnerUpElement);
 
 
-// do the same for the runner up item
+
 
 
 
