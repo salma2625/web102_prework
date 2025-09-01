@@ -40,7 +40,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled alot with the filter section it was kinda hard setting up the data so I could minipulate it using the js, it was worth it at the end though.
 
 ## License
 
